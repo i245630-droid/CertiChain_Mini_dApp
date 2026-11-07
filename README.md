@@ -97,4 +97,4 @@ All screenshots below were taken from my own deployment and test transactions on
 - Network: Sepolia
 - Contract address: **`0x1D340AF5E244df75655F57Ee1EC8744057b31BB2`**
 - Etherscan: https://sepolia.etherscan.io/address/0x1D340AF5E244df75655F57Ee1EC8744057b31BB2
-- GitHub repository: https://github.com/i245630-droid/CertiChain-Mini-dApp
+- GitHub repository: GitHub repository: https://github.com/i245630-droid/CertiChain_Mini_dApp
