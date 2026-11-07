@@ -19,12 +19,12 @@ CertiChain is a small decentralized application for issuing and verifying academ
 
 The certificate ID is calculated as `keccak256(abi.encodePacked(certificateHash))`. The frontend calculates the same ID using ethers.js.
 
-## 2. Files
+## 2. Files and pngs
 
 - `SmartContract.sol` – Solidity smart contract.
 - `index.html` – single-page frontend and JavaScript.
 - `style.css` – responsive styling.
-- `screenshots/` – real screenshots of deployment, Etherscan and UI interaction.
+- `screenshots png` – real screenshots of deployment, Etherscan and UI interaction.
 
 ## 3. Deploy the contract using Remix
 
